@@ -1,0 +1,31 @@
+citHeader("The WeberDivechaLCdata package is described in the following publication:")
+
+citEntry(
+  entry  = "Article", 
+  title  = paste0("The gene expression landscape of the human locus coeruleus ", 
+                  "revealed by single-nucleus and spatially-resolved transcriptomics"), 
+  author = personList(as.person("Lukas M. Weber"), 
+                      as.person("Heena R. Divecha"), 
+                      as.person("Matthew N. Tran"), 
+                      as.person("Sang Ho Kwon"), 
+                      as.person("Kelsey D. Montgomery"), 
+                      as.person("Madhavi Tippani"), 
+                      as.person("Rahul Bharadwaj"), 
+                      as.person("Joel E. Kleinman"), 
+                      as.person("Stephanie C. Page"), 
+                      as.person("Thomas M. Hyde"), 
+                      as.person("Leonardo Collado-Torres"), 
+                      as.person("Kristen R. Maynard"), 
+                      as.person("Keri Martinowich"), 
+                      as.person("Stephanie C. Hicks")), 
+  journal = "eLife", 
+  year    = "2023", 
+  volume  = "12", 
+  number  = "RP84628", 
+  doi     = "https://doi.org/10.7554/eLife.84628.3", 
+  textVersion = paste0(
+    "Weber and Divecha et al. (2023), The gene expression landscape of the ", 
+    "human locus coeruleus revealed by single-nucleus and spatially-resolved ", 
+    "transcriptomics, eLife, 12:RP84628."
+  )
+)
